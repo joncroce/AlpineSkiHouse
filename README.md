@@ -1,1 +1,2 @@
 # AlpineSkiHouse
+Project code for Microsoft Learn Training module: [Publish a web app to Azure with Visual Studio](https://learn.microsoft.com/en-us/training/modules/publish-azure-web-app-with-visual-studio/).
